@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 王明远
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: 
+  text: mingyuan.wang@ucd.ie
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: 
+  text: 18211107655
 ---
 
-# Wode **Ni**
+# 王 **明远**
 
 <!--
 include contact information from the front matter
